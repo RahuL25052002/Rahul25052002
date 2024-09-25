@@ -1,16 +1,22 @@
-## Hi there 👋
+<h2 align="left">Hi 👋! My name is Rahul</h2>
 
-<!--
-**RahuL25052002/Rahul25052002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="400" src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InJhbnNvbSIsInRleHQiOiJIZXklMkMlMjBSYWh1bCUyME5pa2FsZSUyMGhlcmUhIiwicGFsZXR0ZSI6IjUsMCwwLDIsMywwLDMsNCwxLDMsMCwxLDIsMCwwLDAsNiwxLDQsMCIsImlhdCI6MTcyNzI3MjU5Nn0.xDFqiJ0BSPPNnL2-b3h_9dOI4Y_MiVgHcpm4P_3w7cg"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="nikrahuljust@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
